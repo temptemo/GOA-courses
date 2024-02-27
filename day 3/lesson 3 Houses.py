@@ -571,7 +571,6 @@ penup()
 goto(400,155)
 pendown()
 
-color = "red"
 left(150)
 forward(150)
 left(253)
